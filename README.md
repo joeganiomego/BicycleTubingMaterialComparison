@@ -18,3 +18,10 @@ Keywords: Bicycle, 3D printing, carbon fiber, Bicycle frame, PLA, Aluminum Alloy
 
 
 
+<br>
+
+
+<kbd> <img src="https://github.com/joeganiomego/BicycleTubingMaterialComparison/blob/main/Steel_4130crmo_Pipe_01-Page1.jpg" /> </kbd>
+
+
+<br>
