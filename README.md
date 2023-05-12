@@ -2,19 +2,19 @@
 Evaluating and Comparing Bicycle Tubing Materials: a simplified FEM methodology
 
 
-Evaluating 3D printed PLA as Bicycle Tubing Material:
-a feasibility study
+Evaluating and Comparing Bicycle Tubing Materials:
+a simplified FEM methodology
 
 Joe Ganio-Mego (ORCHID ID = 0000-0001-6462-9842)1
 
 
 ABSTRACT
+Material comparison will be carried out on popular down tube geometries with a fixed length of 300mm.
+The considered bicycle type will be the road race ultralight one.
+The limiting factor will be the fatigue limit strength. The pipe flexibility will be calculated. The flexibility of the steel tubing will be considered as a reference.
+The results will be used to predict the lowest weight potential of a complete road bicycle frame made with the relevant tubes and materials. A hypothetical 3D-printed PLA pipe will also be evaluated.
 
-There is this question: does it make sense to build a road race bicycle frame by FDM 3D printing? And, in case that simple 3D printing of PLA filament would no be enough, would it help to skin over the 3D printed frame several layers of carbon fiber?  These two techniques, might be found practical, in the custom made bicycle frame-building community. We apply here a super simplified methodology to compare bicycle tubing and we find that there is the possibility for a frame made with carbon fiber skinned over a PLA core to be competitive.
-
-
-
-Keywords: Bicycle, 3D printing, carbon fiber, Bicycle frame, PLA, Aluminum Alloys, chromoly steel, Freecad, Calculix, carbon fiber skinning, framebuilders.
+Keywords: Bicycle, 3D printing, carbon fiber, Bicycle frame, PLA, Aluminum Alloys, chromoly steel, Freecad, Calculix.
 
 
 
